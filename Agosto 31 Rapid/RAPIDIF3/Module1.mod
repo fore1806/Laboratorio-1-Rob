@@ -52,6 +52,12 @@ MODULE Module1
     !***********************************************************
     PROC main()
         !Añada aquí su código
+        Homing;
+        MidGoing;
+        IRoute;
+        FRoute;
+        MidGoing;
+        Homing;
     ENDPROC
     PROC IRoute()
         MoveL Target_10,v150,z10,MarkerIF31TCP\WObj:=WOTableIF31;
