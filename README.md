@@ -51,7 +51,6 @@ Posterior a la creación de estos dos Target, se debian definir las dos trayecto
 
 ```AMPL
     PROC main()
-        !Añada aquí su código
         Homing;
         MidGoing;
         IRoute;
@@ -61,3 +60,8 @@ Posterior a la creación de estos dos Target, se debian definir las dos trayecto
     ENDPROC
 ```
 
+![](https://github.com/fore1806/Laboratorio-1-Rob/blob/main/VIDEOS-FOTOS/Robot-1-cuadrante-x(+)-y(-).MOV)
+
+#### Trabajo con el Robot
+
+Una vez el código se encontraba listo, para comenzar con el trabajo con el Robot
