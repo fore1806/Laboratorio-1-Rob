@@ -60,8 +60,26 @@ Posterior a la creación de estos dos Target, se debian definir las dos trayecto
     ENDPROC
 ```
 
-![](https://github.com/fore1806/Laboratorio-1-Rob/blob/main/VIDEOS-FOTOS/Robot-1-cuadrante-x(+)-y(-).MOV)
+El video de la simulación de este programa puede ser consultado en el [enlace](PONER URL))|
 
 #### Trabajo con el Robot
 
-Una vez el código se encontraba listo, para comenzar con el trabajo con el Robot
+Una vez el código se encontraba listo, para comenzar con el trabajo con el Robot, comenzó por actualizar los controladores del mismo, posteriormente se debió cargar el programa al controlador IRC5, a través del flex pendant. Al seleccionarlo, se continuaba el proceso con seleccionar la herramienta y el WorkObject definidos en el software RobotStudio. Dada la alta fidelidad entre el diseño CAD y la manufactura de la herramienta, el proceso de calibración del TCP de la herramienta se obvió; sin embargo, ubicar de manera precisa el tablero inclinado en la posición definida en el software, ubiese sido un despropósito, aprovechando la presencia del resorte en la herramienta, se realizó un procedimiento de definición de la misma con tres puntos de manera manual.
+
+Esto se realizó en el Robot número 2 del LABSIR, donde dada la presencia de una banda transportadora en el espacio de trabajo del robot, se debió ubicar el tablero en el cudrante de x positivo e y negativo. Esto generó una gran cantidad de problemas para el equipo de trabajo, pues el código estaba pensado para realizarse en la sección positiva del eje y; a pesar de que los puntos de las trayectorias y sus recorridos, fueron correctamente definidos en el WorkObject, al ejecutar cada una de las instrucciones, el controlador indicaba una alerta de advertencia, como se muestra a continuación.
+
+![](https://github.com/fore1806/Laboratorio-1-Rob/blob/main/VIDEOS-FOTOS/FOTOS/Warning.jpeg)
+
+Después de un exhaustivo análisis y de la orientación de diferentes expertos, se concluyó que la advertencia era arrojada debido a que al cambiar el cuadrante, la forma de orientarse por parte del robot seleccionada en el software, no era la más optima y este problema se agudizaba por la mínima tolerancia definida para cada uno de los trazos al definir el parámetro *z* como *fine*. A continuación se muestra el video del robot ejecutando el programa.
+
+PONER VIDEOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+
+Con lo anterior en mente, se logró utilizar el robot número 1 que contaba con el cuadrante especificado libre para la realización de la rutina, y posterior a un ajuste de velocidad y tolerancias, se logró dibujar la trayectoria de manera continúa con un resultado muy favorable como se observa en el siguiente video.
+
+PONER VIDEOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+
+Finalmente, se realizó un último trazo sobre el tablero, modificando nuevamente su ubicación y adicionalmente su orientación. Al ubicarlo nuevamente en la sección negativa del eje y, el equipo de trabajo era consciente que se debía realizar una instrucción a la vez.
+
+![](https://github.com/fore1806/Laboratorio-1-Rob/blob/main/VIDEOS-FOTOS/FOTOS/IF-Robot1-orientacionDif.jpg)
+
+POONER VIDEOOOOOOOOOOOOOOOOOOOOO
