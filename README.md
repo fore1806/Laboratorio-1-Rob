@@ -70,16 +70,36 @@ Esto se realizó en el Robot número 2 del LABSIR, donde dada la presencia de un
 
 ![](https://github.com/fore1806/Laboratorio-1-Rob/blob/main/VIDEOS-FOTOS/FOTOS/Warning.jpeg)
 
-Después de un exhaustivo análisis y de la orientación de diferentes expertos, se concluyó que la advertencia era arrojada debido a que al cambiar el cuadrante, la forma de orientarse por parte del robot seleccionada en el software, no era la más optima y este problema se agudizaba por la mínima tolerancia definida para cada uno de los trazos al definir el parámetro *z* como *fine*. A continuación se muestra el video del robot ejecutando el programa.
+Después de un exhaustivo análisis y de la orientación de diferentes expertos, se concluyó que la advertencia era arrojada debido a que al cambiar el cuadrante, la forma de orientarse por parte del robot seleccionada en el software, no era la más optima y este problema se agudizaba por la mínima tolerancia definida para cada uno de los trazos al definir el parámetro *z* como *fine*. A continuación se muestra fotos de la ubicación del objeto de trabajo, el resultado final y un video del robot ejecutando el programa.
+
+![](https://github.com/fore1806/Laboratorio-1-Rob/blob/main/VIDEOS-FOTOS/FOTOS/WorkObjectRobot2.jpg)
+
+PONER FOTOOOOOOOOOOOOOOOOOOOOOO
 
 PONER VIDEOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
 Con lo anterior en mente, se logró utilizar el robot número 1 que contaba con el cuadrante especificado libre para la realización de la rutina, y posterior a un ajuste de velocidad y tolerancias, se logró dibujar la trayectoria de manera continúa con un resultado muy favorable como se observa en el siguiente video.
 
+
+
+PONER FOTOOOOOOOOOOOOOOOOOOOOOO
+
 PONER VIDEOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
-Finalmente, se realizó un último trazo sobre el tablero, modificando nuevamente su ubicación y adicionalmente su orientación. Al ubicarlo nuevamente en la sección negativa del eje y, el equipo de trabajo era consciente que se debía realizar una instrucción a la vez.
+Finalmente, se realizó un último trazo sobre el tablero, modificando nuevamente su ubicación y adicionalmente su orientación. Al ubicarlo nuevamente en la sección negativa del eje y, el equipo de trabajo era consciente que se debía realizar una instrucción a la vez. A continuación se muestran algunas imágenes de la ubicación del tablero, el resultado final y un video del robot en funcionamiento.
+
+![](https://github.com/fore1806/Laboratorio-1-Rob/blob/main/VIDEOS-FOTOS/FOTOS/WorkObjectRobot1.jpg)
 
 ![](https://github.com/fore1806/Laboratorio-1-Rob/blob/main/VIDEOS-FOTOS/FOTOS/IF-Robot1-orientacionDif.jpg)
 
 POONER VIDEOOOOOOOOOOOOOOOOOOOOO
+
+## Conclusiones
+
+-   Se evidenció la importancia de conocer el cuadrante sobre el cual el Robot trabajará en base al sistema de coordenadas ubicado en su base, lo cual determinará la configuración requerida para el robot, y permitirá alcanzar los diferentes target de manera óptima.
+
+-   Se encuentra que a pesar de que la tolerancia *z5* no permite obtener ángulos de 90° casi perfectos, como si se lograron con el parámetro en *fine*, le permite al robot realizar trayectorias de manera más eficiente y permitiría obtener velocidades superiores.
+
+-   Se observó la gran importancia de la definición de objetos de trabajo (WorkObject) para realizar tareas repetitivas, en diferentes ubicaciones espaciales dentro del espacio de trabajo.
+
+-   Se concluye que el éxito en la realización del laboratorio partió de un proceso bien definido de diseño y manufactura de la herramienta de trabajo.
