@@ -13,11 +13,17 @@ Primer laboratorio de la asignatura Robótica de la Universidad Nacional de Colo
 
 La realización de tareas de forma autónoma cobran cada vez mayor importancia en la vida del ser humano, y es aquí donde la utilización de sistemas robóticos automatizados capaces de seguir con fidelidad y presición una serie de directrices definidas por un usuario se convierte en una necesidad dentro de la formación profesional de un ingeniero mecatrónico. De esta forma, mediante la realización de este laboratorio, se genera un primer acercamiento a la programación de instrucciones para el robot con el fin de obtener la escritura de un conjunto de letras sobre un tablero inclinado.
 
+
+
+
+
 ## Solución planteada.
 
 ### Diseño y Manufactura de la herramienta
 La realización de la herramienta de trabajo se planteó en tres fases la primera consistió en la búsqueda de posibles requerimientos para esta los cuales principalmente consistieron en el tamaño del marcador, la geometría del plato del manipulador IRB-140 y la habilitación de un recorrido interno del marcador el cual mediante un resorte debería responder a fuerzas aplicadas sobre el mismo.
+
 La segunda fase consistió en el diseño y modelaje 3D mediante software CAD de la herramienta para esto se realizó la adquisición de las medidas mediante el uso de un calibrador de los elementos adquiridos los cuales fueron un marcador y un resorte; adicional con el fin de que el diseño cumpliera un diseño modular para posteriores optimizaciones se dividió en tres partes para su posterior ensamble; estas partes fueron; la base, el cuerpo y el cabezal obteniéndose los siguientes modelos.
+
 Finalmente, la última fase consistió en la fabricación y ensamble de la herramienta para esto se decidió utilizar un proceso de manufactura aditiva por los beneficios de esta a baja escala y al ser esta herramienta un prototipo el cual se debe seguir optimizando para futuras aplicaciones. 
 
 ### Diseño e Implementación de la solución
@@ -96,7 +102,7 @@ Finalmente, se realizó un último trazo sobre el tablero, modificando nuevament
 ![](https://github.com/fore1806/Laboratorio-1-Rob/blob/main/VIDEOS-FOTOS/FOTOS/IF-Robot1-orientacionDif.jpg)
 
 POONER VIDEOOOOOOOOOOOOOOOOOOOOO
-
+https://user-images.githubusercontent.com/51063748/188247526-80a4a80a-81eb-4860-9bf5-a3321f45c4a1.mp4
 ## Conclusiones
 
 -   Se evidenció la importancia de conocer el cuadrante sobre el cual el Robot trabajará en base al sistema de coordenadas ubicado en su base, lo cual determinará la configuración requerida para el robot, y permitirá alcanzar los diferentes target de manera óptima.
