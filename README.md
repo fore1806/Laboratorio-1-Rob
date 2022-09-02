@@ -16,6 +16,9 @@ La realización de tareas de forma autónoma cobran cada vez mayor importancia e
 ## Solución planteada.
 
 ### Diseño y Manufactura de la herramienta
+La realización de la herramienta de trabajo se planteó en tres fases la primera consistió en la búsqueda de posibles requerimientos para esta los cuales principalmente consistieron en el tamaño del marcador, la geometría del plato del manipulador IRB-140 y la habilitación de un recorrido interno del marcador el cual mediante un resorte debería responder a fuerzas aplicadas sobre el mismo.
+La segunda fase consistió en el diseño y modelaje 3D mediante software CAD de la herramienta para esto se realizó la adquisición de las medidas mediante el uso de un calibrador de los elementos adquiridos los cuales fueron un marcador y un resorte; adicional con el fin de que el diseño cumpliera un diseño modular para posteriores optimizaciones se dividió en tres partes para su posterior ensamble; estas partes fueron; la base, el cuerpo y el cabezal obteniéndose los siguientes modelos.
+Finalmente, la última fase consistió en la fabricación y ensamble de la herramienta para esto se decidió utilizar un proceso de manufactura aditiva por los beneficios de esta a baja escala y al ser esta herramienta un prototipo el cual se debe seguir optimizando para futuras aplicaciones. 
 
 ### Diseño e Implementación de la solución
 
