@@ -1,0 +1,4 @@
+MODULE CalibData
+    PERS tooldata MarkerIF31TCP:=[TRUE,[[0,0,164.8],[1,0,0,0]],[1,[0,0,1],[1,0,0,0],0,0,0]];
+    TASK PERS wobjdata WOTableIF31:=[FALSE,TRUE,"",[[315.5,500,191.5],[0.281957405,-0.64845973,-0.64845973,-0.281957405]],[[0,0,0],[1,0,0,0]]];
+ENDMODULE
