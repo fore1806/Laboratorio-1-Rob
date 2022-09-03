@@ -47,6 +47,9 @@ La segunda fase consistió en el diseño y modelaje 3D mediante software CAD de 
 
 
 Finalmente, la última fase consistió en la fabricación y ensamble de la herramienta para esto se decidió utilizar un proceso de manufactura aditiva por los beneficios de esta a baja escala y al ser esta herramienta un prototipo el cual se debe seguir optimizando para futuras aplicaciones. 
+<p align="center">
+  <img src="https://github.com/fore1806/Laboratorio-1-Rob/blob/main/VIDEOS-FOTOS/FOTOS/Tool_montada.jpeg"/>
+</p>
 
 ### Diseño e Implementación de la solución
 
@@ -109,6 +112,9 @@ PONER FOTOOOOOOOOOOOOOOOOOOOOOO
 
 PONER VIDEOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
+Robot-1-cuadrante-x(+)-y(+).MP4
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oVkHbUpJRyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Con lo anterior en mente, se logró utilizar el robot número 1 que contaba con el cuadrante especificado libre para la realización de la rutina, y posterior a un ajuste de velocidad y tolerancias, se logró dibujar la trayectoria de manera continúa con un resultado muy favorable como se observa en el siguiente video.
 
 
