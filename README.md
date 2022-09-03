@@ -94,7 +94,8 @@ Posterior a la creación de estos dos Target, se debian definir las dos trayecto
     ENDPROC
 ```
 
-El video de la simulación de este programa puede ser consultado en el [enlace](PONER URL))|
+El video de la simulación de este programa puede ser consultado a continuación
+[![Alt text](https://user-images.githubusercontent.com/51063748/188250622-420c71bb-6678-450b-adf7-d88243685064.png)](https://youtu.be/Z604GLn81Xc)
 
 #### Trabajo con el Robot
 
