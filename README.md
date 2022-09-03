@@ -24,27 +24,20 @@ La realización de la herramienta de trabajo se planteó en tres fases la primer
 
 La segunda fase consistió en el diseño y modelaje 3D mediante software CAD de la herramienta para esto se realizó la adquisición de las medidas mediante el uso de un calibrador de los elementos adquiridos los cuales fueron un marcador y un resorte; adicional con el fin de que el diseño cumpliera un diseño modular para posteriores optimizaciones se dividió en tres partes para su posterior ensamble; estas partes fueron; la base, el cuerpo y el cabezal obteniéndose los siguientes modelos.
 
-<p align="center">
+
     
     ![herramientas](https://user-images.githubusercontent.com/51063748/188247661-9e952753-16d4-4eb1-805e-c50a31a0f45d.png)
 
-</center></p>
-<p align="center">
     
     ![base](https://user-images.githubusercontent.com/51063748/188247765-216ed949-6dd4-40a0-83f5-2f7475df3b7a.png)
 
-</p>
-
-<p align="center">
     
     ![cabezal](https://user-images.githubusercontent.com/51063748/188247766-469c5305-05a1-40bc-afe1-c9df12339ba5.png)
     
-</p>
-<p align="center">
     
     ![cuerpo](https://user-images.githubusercontent.com/51063748/188247767-974aab33-8129-4268-a564-16191c19270d.png)
 
-</p>
+
 
 Finalmente, la última fase consistió en la fabricación y ensamble de la herramienta para esto se decidió utilizar un proceso de manufactura aditiva por los beneficios de esta a baja escala y al ser esta herramienta un prototipo el cual se debe seguir optimizando para futuras aplicaciones. 
 
