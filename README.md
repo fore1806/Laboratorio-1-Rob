@@ -29,6 +29,10 @@ La segunda fase consistió en el diseño y modelaje 3D mediante software CAD de 
 
 
 ![base](https://user-images.githubusercontent.com/51063748/188248316-1a968023-69f5-4ae1-b489-4b2647f419aa.png)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/51063748/188248316-1a968023-69f5-4ae1-b489-4b2647f419aa.png" />
+</p>
 ![cabezal](https://user-images.githubusercontent.com/51063748/188248318-dc66c847-12e8-4795-9985-51aaa6ce03af.png)
 ![cuerpo](https://user-images.githubusercontent.com/51063748/188248319-c3fc2886-f8f7-4007-9c4d-85a97f9c8e37.png)
 ![herramientas](https://user-images.githubusercontent.com/51063748/188248320-97f7165b-a641-4d98-afb0-17114b61a014.png)
