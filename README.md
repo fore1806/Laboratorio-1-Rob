@@ -108,14 +108,12 @@ Después de un exhaustivo análisis y de la orientación de diferentes expertos,
 
 ![](https://github.com/fore1806/Laboratorio-1-Rob/blob/main/VIDEOS-FOTOS/FOTOS/WorkObjectRobot2.jpg)
 
-PONER FOTOOOOOOOOOOOOOOOOOOOOOO
+
 
 [![Alt text](https://user-images.githubusercontent.com/51063748/188249663-7ef4de57-c8d6-4597-82bc-9b611608de33.png)](https://youtu.be/oVkHbUpJRyg)
 
+Posteriormente se realizo un montaje en el robot uno y se dejo la orientacion del work-object en una sosicion similar a la programada ajustando el marco de referencia de este manual mente mediante el metodo de los tres puntos obteniendose un seguimiento de la trayectoria continuo como se muestra a contiuacion:
 
-
-FOTOOOOOOOOOOOOOOOOOOOOOO
-PONER 
 [![Alt text](https://user-images.githubusercontent.com/51063748/188249684-d5a86f9f-f886-4471-8848-4223b66efb90.png)](https://youtu.be/nGouMKOFM80)
 
 
