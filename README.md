@@ -21,6 +21,9 @@ La realización de tareas de forma autónoma cobran cada vez mayor importancia e
 
 ### Diseño y Manufactura de la herramienta
 La realización de la herramienta de trabajo se planteó en tres fases la primera consistió en la búsqueda de posibles requerimientos para esta los cuales principalmente consistieron en el tamaño del marcador, la geometría del plato del manipulador IRB-140 y la habilitación de un recorrido interno del marcador el cual mediante un resorte debería responder a fuerzas aplicadas sobre el mismo.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/51063748/188248523-9c9820b6-b6b6-43c9-9341-26f84eb5982c.jpeg"/>
+</p>
 
 La segunda fase consistió en el diseño y modelaje 3D mediante software CAD de la herramienta para esto se realizó la adquisición de las medidas mediante el uso de un calibrador de los elementos adquiridos los cuales fueron un marcador y un resorte; adicional con el fin de que el diseño cumpliera un diseño modular para posteriores optimizaciones se dividió en tres partes para su posterior ensamble; estas partes fueron; la base, el cuerpo y el cabezal obteniéndose los siguientes modelos.
 
