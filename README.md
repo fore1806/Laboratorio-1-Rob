@@ -110,18 +110,16 @@ Después de un exhaustivo análisis y de la orientación de diferentes expertos,
 
 PONER FOTOOOOOOOOOOOOOOOOOOOOOO
 
-PONER VIDEOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-
-Robot-1-cuadrante-x(+)-y(+).MP4
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oVkHbUpJRyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Con lo anterior en mente, se logró utilizar el robot número 1 que contaba con el cuadrante especificado libre para la realización de la rutina, y posterior a un ajuste de velocidad y tolerancias, se logró dibujar la trayectoria de manera continúa con un resultado muy favorable como se observa en el siguiente video.
+[![R2x+y-](https://user-images.githubusercontent.com/51063748/188249663-7ef4de57-c8d6-4597-82bc-9b611608de33.png)]
+(https://youtu.be/oVkHbUpJRyg)
 
 
 
-PONER FOTOOOOOOOOOOOOOOOOOOOOOO
+FOTOOOOOOOOOOOOOOOOOOOOOO
+PONER 
+[![R1x+y+](https://user-images.githubusercontent.com/51063748/188249684-d5a86f9f-f886-4471-8848-4223b66efb90.png)]
+(https://youtu.be/nGouMKOFM80)
 
-PONER VIDEOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
 Finalmente, se realizó un último trazo sobre el tablero, modificando nuevamente su ubicación y adicionalmente su orientación. Al ubicarlo nuevamente en la sección negativa del eje y, el equipo de trabajo era consciente que se debía realizar una instrucción a la vez. A continuación se muestran algunas imágenes de la ubicación del tablero, el resultado final y un video del robot en funcionamiento.
 
@@ -129,8 +127,8 @@ Finalmente, se realizó un último trazo sobre el tablero, modificando nuevament
 
 ![](https://github.com/fore1806/Laboratorio-1-Rob/blob/main/VIDEOS-FOTOS/FOTOS/IF-Robot1-orientacionDif.jpg)
 
-POONER VIDEOOOOOOOOOOOOOOOOOOOOO
-https://user-images.githubusercontent.com/51063748/188247526-80a4a80a-81eb-4860-9bf5-a3321f45c4a1.mp4
+[![R1x+y-](https://user-images.githubusercontent.com/51063748/188249700-99000d01-82cc-451b-a7b2-8666757112f4.png)]
+(https://youtu.be/TTQi4SL3n88)
 ## Conclusiones
 
 -   Se evidenció la importancia de conocer el cuadrante sobre el cual el Robot trabajará en base al sistema de coordenadas ubicado en su base, lo cual determinará la configuración requerida para el robot, y permitirá alcanzar los diferentes target de manera óptima.
