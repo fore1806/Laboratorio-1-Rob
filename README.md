@@ -110,14 +110,14 @@ Después de un exhaustivo análisis y de la orientación de diferentes expertos,
 
 PONER FOTOOOOOOOOOOOOOOOOOOOOOO
 
-[![R2x+y-](https://user-images.githubusercontent.com/51063748/188249663-7ef4de57-c8d6-4597-82bc-9b611608de33.png)]
+[![Alt text](https://user-images.githubusercontent.com/51063748/188249663-7ef4de57-c8d6-4597-82bc-9b611608de33.png)]
 (https://youtu.be/oVkHbUpJRyg)
 
 
 
 FOTOOOOOOOOOOOOOOOOOOOOOO
 PONER 
-[![R1x+y+](https://user-images.githubusercontent.com/51063748/188249684-d5a86f9f-f886-4471-8848-4223b66efb90.png)]
+[![Alt text](https://user-images.githubusercontent.com/51063748/188249684-d5a86f9f-f886-4471-8848-4223b66efb90.png)]
 (https://youtu.be/nGouMKOFM80)
 
 
@@ -127,7 +127,7 @@ Finalmente, se realizó un último trazo sobre el tablero, modificando nuevament
 
 ![](https://github.com/fore1806/Laboratorio-1-Rob/blob/main/VIDEOS-FOTOS/FOTOS/IF-Robot1-orientacionDif.jpg)
 
-[![R1x+y-](https://user-images.githubusercontent.com/51063748/188249700-99000d01-82cc-451b-a7b2-8666757112f4.png)]
+[![Alt text](https://user-images.githubusercontent.com/51063748/188249700-99000d01-82cc-451b-a7b2-8666757112f4.png)]
 (https://youtu.be/TTQi4SL3n88)
 ## Conclusiones
 
