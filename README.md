@@ -1,4 +1,4 @@
-# Primer Laboratorio - Robótica Industrial No. 1
+# Primer Laboratorio - Robótica Industrial No. 1 :robot:
 
 Primer laboratorio de la asignatura Robótica de la Universidad Nacional de Colombia en su sede Bogotá.
 
